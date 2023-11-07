@@ -71,8 +71,8 @@ button{
   border-radius: 25px;
   font-weight: bold;
   border: 2px solid #009688;
-  backgrounf: transparent;
-  color: #fff;
+  background: transparent;
+  color: black;
   cursor: pointer;
   position: relative;
   overflow: hidden;
